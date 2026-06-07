@@ -1,0 +1,11 @@
+[package]
+name = "page-replace"
+version = "0.1.0"
+edition = "2021"
+description = "Virtual memory page replacement algorithms: FIFO, LRU, Clock, LFU with hit rate tracking"
+license = "MIT"
+repository = "https://github.com/SuperInstance/page-replace"
+keywords = ["page-replacement", "virtual-memory", "fifo", "lru", "lfu"]
+categories = ["algorithms", "simulation"]
+authors = ["SuperInstance"]
+readme = "README.md"
